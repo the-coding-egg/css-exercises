@@ -1,0 +1,15 @@
+.odd1,
+.odd3,
+.odd5 {
+  color: black;
+  background-color: #FFA7A7;
+}
+
+.odd3 {
+  font-size: 24px;
+}
+
+#num2 {
+  color: #0000FF;
+  font-size: 36px;
+}
